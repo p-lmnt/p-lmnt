@@ -1,10 +1,26 @@
-## Hi there 👋
+## 👋 Hey there, 
 
-- 🔭 I’m currently working as a software developer in a company where I build point-of-sale (POS) software. 
-At the moment, I’m using Objective-C for macOS development, but we are planning to transition to Flutter in the near future.
+🧑‍💻 French developer crafting clean apps and scalable APIs.
 
-- 📱 I also develop cross-platform mobile applications using Flutter and build APIs with Ruby on Rails.
+### 🚀 What I do:
+- 🍎 Native **macOS development**
+- 💎 Building **APIs with Ruby on Rails**
+- 📱 Creating **cross-platform mobile apps with Flutter**
+- 🐳 **Containerizing** apps and services with Docker
+- ☁️ Managing **full-stack integration and deployment**
 
-- 🌱 I’m always eager to learn new technologies. Currently, I’m focusing on improving my skills in Ruby and Swift.
+### 🛠️ Tech Stack:
+- 💎 Ruby / Rails
+- 🐦 Dart / Flutter
+- 🍏 Swift / Objective C
+- 🐳 Docker
+- ⚙️ Git
 
-- 🤝 Feel free to reach out if you’d like to collaborate or discuss anything tech-related!
+### 🌱 What I enjoy:
+- 🧰 Building useful tools from scratch
+- 🤖 Automating repetitive tasks
+- 📚 Learning and experimenting with new tech
+
+---
+
+📫 Feel free to check out my public projects below or reach out for collaboration!
