@@ -21,6 +21,3 @@
 - 🤖 Automating repetitive tasks
 - 📚 Learning and experimenting with new tech
 
----
-
-📫 Feel free to check out my public projects below or reach out for collaboration!
