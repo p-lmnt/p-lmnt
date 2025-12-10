@@ -6,14 +6,12 @@
 - 🍎 Native **macOS development**
 - 💎 Building **APIs with Ruby on Rails**
 - 📱 Creating **cross-platform mobile apps with Flutter**
-- 🐳 **Containerizing** apps and services with Docker
 - ☁️ Managing **full-stack integration and deployment**
 
 ### 🛠️ Tech Stack:
 - 💎 Ruby / Rails
 - 🐦 Dart / Flutter
 - 🍏 Swift / Objective C
-- 🐳 Docker
 - ⚙️ Git
 
 ### 🌱 What I enjoy:
